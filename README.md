@@ -18,14 +18,23 @@ I have thoroughly considered the issue definition and criteria for each task bef
 The repository is structured as follows:
 
 ├── problem1
+
 │   ├── solution1.js
+
 │   ├── solution1.py
+
 │   └── ...
+
 ├── problem2
+
 │   ├── solution2.js
+
 │   ├── solution2.py
+
 │   └── ...
+
 ├── ...
+
 └── README.md
 
 Each problem is represented by a separate directory, labeled as problem1, problem2, and so on.
