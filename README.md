@@ -1,4 +1,3 @@
-# Hackrank
 # Hackerrank Code Challenge Solutions
 My responses to several coding problems from the Hackerrank platform are contained in this repository. Each solution strives to give an effective and accurate implementation and is created to handle a particular programming issue.
 
@@ -17,6 +16,7 @@ I have thoroughly considered the issue definition and criteria for each task bef
 
 # *Repository Structure*
 The repository is structured as follows:
+
 ├── problem1
 │   ├── solution1.js
 │   ├── solution1.py
